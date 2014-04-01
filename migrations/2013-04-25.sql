@@ -1,0 +1,1 @@
+alter table translations add ova_url_post varchar(2000);

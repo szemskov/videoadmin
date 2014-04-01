@@ -1,0 +1,1 @@
+alter table translations add dvr int not null default 0;

@@ -1,0 +1,1 @@
+alter table translations add node_id int;

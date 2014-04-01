@@ -1,0 +1,1 @@
+alter table translations add setevizor int not null default 0;

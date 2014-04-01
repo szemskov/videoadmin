@@ -1,0 +1,1 @@
+alter table translations add `online` int not null default 0;

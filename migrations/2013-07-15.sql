@@ -1,0 +1,1 @@
+alter table translations add check_geoip int not null default 1;
